@@ -24,5 +24,15 @@ namespace TV_Данилова
         {
             InitializeComponent();
         }
+
+        private void NextChannel(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BackChannel(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
